@@ -52,7 +52,7 @@ Feel Free To Clone This Project. For Major Changes, Please Open An Issue First T
 apt update && apt upgrade -y
 pkg install git
 pkg install python
-git clone https://github.com/frenchmangigo/FB-SHARE/edit/main/FB-SHARE.git
+git clone https://github.com/frenchmangigo/FB-SHARE.git
 cd FB-SHARE
 python3 SHARE.py
 ```
@@ -66,7 +66,7 @@ python3 SHARE.py
 ### Kali Linux / Ubuntu / Parrot OS >
 ```python
     sudo apt-get update && apt-get install git
-    git clone https://github.com/U7P4L-IN/FB-SHARE.git
+    git clone https://github.com/frenchmangigo/FB-SHARE.git
     ls
     cd FB-SHARE
     ls
